@@ -24,4 +24,15 @@ body {
 	margin-left: 5px;
 }
 
+.img-with-text {
+    text-align: center;
+    width: 40%;
+    float: right;
+}
 
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    margin-top: 50px
+}
